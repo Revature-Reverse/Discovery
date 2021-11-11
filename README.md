@@ -18,5 +18,5 @@ You can, in fact, allow Eureka to determine the port that your service uses by s
 server:
   port: 0
   
-#Installation
+# Installation
 Clone https://github.com/Revature-Reverse/Discovery.git, open the project in your IDE, and run it.
