@@ -17,3 +17,6 @@ eureka:
 You can, in fact, allow Eureka to determine the port that your service uses by setting the port to 0.
 server:
   port: 0
+  
+#Installation
+Clone https://github.com/Revature-Reverse/Discovery.git, open the project in your IDE, and run it.
